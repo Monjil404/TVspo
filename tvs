@@ -6,6 +6,12 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="DSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYlfQg4HXMdswfyTrb6iKdSndj0xCsJKTD6MGfooCdnpvLiSVOPSctiI&s=10" group-title="Sports",DSPORTS
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
+#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw" group-title="Sports",Bein Sports
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-name="Fifa+" tvg-logo="https://cdn-1.webcatalog.io/catalog/fifa-plus/fifa-plus-icon-filled-256.png?v=1714774340917" group-title="Sports",Fifa+
+https://c822c659.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/a4288c44-0852-418a-874a-6068c1f660a7/2.m3u8
+
 #EXTINF:-1 tvg-name="FIFA World" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-Photo.png" group-title="Sports",Telemundo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
