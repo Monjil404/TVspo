@@ -3,6 +3,9 @@
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 
+#EXTINF:-1 tvg-name="DSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYlfQg4HXMdswfyTrb6iKdSndj0xCsJKTD6MGfooCdnpvLiSVOPSctiI&s=10" group-title="News",DSPORTS
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
 #EXTINF:-1 tvg-name="FIFA World" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-Photo.png" group-title="Sports",Telemundo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
