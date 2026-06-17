@@ -45,16 +45,7 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="Real Madrid" tvg-logo="https://pbs.twimg.com/profile_images/896773300667461633/F75hrQfN_400x400.jpg" group-title="Sports",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png" group-title="Sports",T-SPORTS
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8
-#EXTINF:-1 tvg-name="PSL + IPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10" group-title="Sports",PSL + IPL
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-#EXTINF:-1 tvg-name="Star Select 1" tvg-logo="https://ctgiptv.com/assets/images/channels/starselect1hd.jpg" group-title="Sports",Star Select 1
-https://tvsen7.aynaott.com/sspts1/index.m3u8
-#EXTINF:-1 tvg-name="P Tv Sports" tvg-logo="https://i.postimg.cc/sXpJqtm3/Ptv.png" group-title="Sports",P Tv Sports
-https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="A Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWw7Tog0Vmto_gO32WGjKy2-tX8G-CIdmuZN8QCIla3g&s=10" group-title="Sports",A Sports
-https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-name="DD Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvJ1HtheTbTZjOoXTO9KRK1fIhh1uXhyvSckbf05J7yIcdT4ZucX1fvfjnyiv9QK-m0pBK6MoY6KhcVPQpsRSXdgBFU612nmbKpY864gsoMvMaCyu_fOdNVbx6ADMbz2dftZ7-0Arzx81kC8nqbeduSEsquwrPpzNGm2wZw6rXHe79vlF7DokCavubWA/s600/Nur_20251107_160202_0000.png" group-title="Sports",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:-1 tvg-name="Premier League" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggALPjRyvL1P2P5tscUTQmFzD2-W0lfCb0wMtEfSWo-ZxHpbJtV_nGQwskPxayJdbvTpUgRoVBiVcatDfm6Ik99fgiXKo7ctjJYkVQPym8teoSiyy3R8WO-sPJNpAzp35LDyOIeSwWYSUpQprqLWy01SGxz2_7o0AUFfblSugnXSt6-znRFJ8w4-gE8w/s1080/1000058092.png" group-title="Sports",Premier League
