@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FIFA world" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-Photo.png" group-title="Sports",Telemundo
+
+#EXTINF:-1 tvg-name="FIFA World" tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG-Photo.png" group-title="Sports",Telemundo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-name="FIFA World Server 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Sports",DSports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
